@@ -10,6 +10,7 @@ namespace DemoConsole
     {
         static void Main(string[] args)
         {
+            Console.Write();
         }
     }
 }
